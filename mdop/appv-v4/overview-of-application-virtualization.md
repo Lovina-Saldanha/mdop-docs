@@ -55,7 +55,7 @@ The following table describes the primary features of the Microsoft Application 
 <tr class="odd">
 <td align="left"><p>Microsoft Application Virtualization Management Console</p></td>
 <td align="left"><p>This console is an MMC 3.0 snap-in management tool used for Microsoft Application Virtualization Server administration.</p></td>
-<td align="left"><p>This tool can be installed on the Microsoft Application Virtualization server or located on a separate workstation that has Microsoft Management Console (MMC) 3.0 and Microsoft .NET Framework 2.0 installed.</p></td>
+<td align="left"><p>This tool can be installed on the Microsoft Application Virtualization server or located on a separate workstation that has Microsoft Management Console (MMC) 3.0 and Microsoft .NET Framework 2.0 installed.</p></td>
 </tr>
 <tr class="even">
 <td align="left"><p>Microsoft Application Virtualization Management Web Service</p></td>
@@ -85,11 +85,11 @@ The following table describes the primary features of the Microsoft Application 
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 
