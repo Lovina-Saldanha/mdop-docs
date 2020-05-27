@@ -32,3 +32,26 @@ A user account with the AGPM Administrator (Full Control) role or necessary perm
 4.  In the **To** field, type a comma-delimited list of e-mail addresses of Approvers who should receive requests for approval.
 
 5.  In the **SMTP server** field, type a valid SMTP mail server.
+
+6.  In the **User name** and **Password** fields, type the credentials of a user with access to the SMTP service.
+
+7.  Click **Apply**.
+
+### Additional considerations
+
+-   By default, you must be an AGPM Administrator (Full Control) to perform this procedure. Specifically, you must have **List Contents** and **Modify Options** permissions for the domain.
+
+-   E-mail notification for AGPM is a domain-level setting. You can provide different Approver e-mail addresses or AGPM e-mail aliases on each domain's **Domain Delegation** tab, or use the same e-mail addresses throughout your environment.
+
+### Additional references
+
+-   [Performing AGPM Administrator Tasks](performing-agpm-administrator-tasks.md)
+
+ 
+
+ 
+
+
+
+
+

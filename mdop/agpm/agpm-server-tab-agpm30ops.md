@@ -31,7 +31,7 @@ If the AGPM Server connection is centrally configured using Administrative templ
 
 By default, all versions of every controlled GPO are retained in the archive. However, you can configure the AGPM Service to limit the number of versions retained for each GPO and automatically delete the oldest version when that limit is exceeded. Only GPO versions displayed on the **Unique Versions** tab of the **History** window count toward the limit.
 
-**Note**  
+**Note**  
 The maximum number of unique versions to store for each GPO does not include the current version, so entering 0 retains only the current version. The limit must be no greater than 999 versions.
 
 When a GPO version is deleted, a record of that version remains in the history of the GPO, but the GPO version itself is deleted from the archive. You can prevent a GPO version from being deleted by marking it in the history as not deletable.
@@ -45,3 +45,12 @@ When a GPO version is deleted, a record of that version remains in the history o
 -   [Performing AGPM Administrator Tasks](performing-agpm-administrator-tasks-agpm30ops.md)
 
 -   [Performing Reviewer Tasks](performing-reviewer-tasks-agpm30ops.md)
+
+ 
+
+ 
+
+
+
+
+

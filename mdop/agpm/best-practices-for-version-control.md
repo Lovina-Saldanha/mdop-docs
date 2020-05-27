@@ -30,3 +30,16 @@ Microsoft Advanced Group Policy Management (AGPM) provides version control for G
 -   **Document the purpose of changes when you check in GPOs:** Any Reviewer can compare versions of a GPO to see specific changes between the two. Documenting those specific changes adds no value. Instead, document the intent and purpose of a change instead of documenting what Reviewers can see by viewing difference reports. Version comments should add value to the comparison report and help a Reviewer understand why the Editor changed the GPO.
 
 -   **Test GPOs in a lab before you deploy:** Deploying GPOs to the production environment without first testing them is risky. Instead, test GPOs in a lab environment by linking them to an organizational unit that contains test computers and users, and then verifying that they function correctly. After verifying each GPO in the lab, deploy the GPO to the production environment.
+
+### Additional references
+
+-   [Operations Guide for Microsoft Advanced Group Policy Management 3.0](operations-guide-for-microsoft-advanced-group-policy-management-30-agpm30ops.md)
+
+ 
+
+ 
+
+
+
+
+

@@ -32,3 +32,20 @@ The secondary tabs filter the list of GPOs displayed.
 -   [Recycle Bin Tab](recycle-bin-tab.md): Deleted GPOs
 
 Additionally, the secondary tabs provide access to the History of each GPO and to other features:
+
+-   [Common Secondary Tab Features](common-secondary-tab-features.md)
+
+-   [History Window](history-window.md)
+
+### Additional references
+
+-   [User Interface: Advanced Group Policy Management](user-interface-advanced-group-policy-management.md)
+
+ 
+
+ 
+
+
+
+
+

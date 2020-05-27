@@ -30,3 +30,22 @@ A user account with the AGPM Administrator (Full Control) role, the user account
 3.  Click the **Add** button, select the users or groups to be permitted access, and then click **OK**.
 
 4.  To customize the permissions for each, click the **Advanced** button on the **Contents** tab and check role permissions to allow or deny. (For more detailed control, click **Advanced** in the **Permissions** dialog box.)
+
+5.  Click **Apply**, and then click **OK** in the **Permissions** dialog box.
+
+### Additional considerations
+
+-   By default, you must be the Approver who created or controlled the GPO or an AGPM Administrator (Full Control) to perform this procedure. Specifically, you must have **List Contents** permission for the domain and **Modify Security** permission for the GPO.
+
+### Additional references
+
+-   [Creating, Controlling, or Importing a GPO](creating-controlling-or-importing-a-gpo-approver.md)
+
+ 
+
+ 
+
+
+
+
+

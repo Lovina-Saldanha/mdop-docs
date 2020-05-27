@@ -39,7 +39,7 @@ A user account with the Approver or AGPM Administrator (Full Control) role or ne
 
 5.  Click **Yes** or **OK** to confirm approval or rejection of the pending action. If you have approved the request, the GPO is moved to the appropriate tab for the action performed.
 
-    **Note**  
+    **Note**  
     If an Approver's e-mail address is included in the **To e-mail address** field on the **Domain** **Delegation** tab, the Approver will receive e-mail from the AGPM alias when an Editor or Reviewer submits a request.
 
      
@@ -51,3 +51,12 @@ A user account with the Approver or AGPM Administrator (Full Control) role or ne
 ### Additional references
 
 -   [Performing Approver Tasks](performing-approver-tasks-agpm30ops.md)
+
+ 
+
+ 
+
+
+
+
+

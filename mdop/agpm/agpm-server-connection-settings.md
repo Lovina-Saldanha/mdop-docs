@@ -46,10 +46,19 @@ The following settings are available under User Configuration\\Administrative Te
 </tbody>
 </table>
 
- 
+ 
 
 ### Additional references
 
 -   [Administrative Template Settings](administrative-template-settings.md)
 
 -   [Performing AGPM Administrator Tasks](performing-agpm-administrator-tasks.md)
+
+ 
+
+ 
+
+
+
+
+

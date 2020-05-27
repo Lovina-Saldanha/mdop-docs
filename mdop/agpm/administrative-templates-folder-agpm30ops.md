@@ -31,9 +31,10 @@ The Administrative template settings for Advanced Group Policy Management (AGPM)
 
 -   [Performing AGPM Administrator Tasks](performing-agpm-administrator-tasks-agpm30ops.md)
 
- 
+ 
 
- 
+ 
+
 
 
 

@@ -34,3 +34,18 @@ To ensure that you are connected to the correct central archive, review the conf
 -   The AGPM Servers selected determine which GPOs are displayed on the **Contents** tab and to what location the **Domain Delegation** tab settings are applied. If not centrally managed through the Administrative template, each Group Policy administrator must configure this setting to point to the AGPM Server for the domain.
 
 ### Additional references
+
+-   [Performing Editor Tasks](performing-editor-tasks.md)
+
+-   [Performing Approver Tasks](performing-approver-tasks.md)
+
+-   [Performing Reviewer Tasks](performing-reviewer-tasks.md)
+
+ 
+
+ 
+
+
+
+
+

@@ -31,4 +31,24 @@ A user account that has access to both the AGPM Server—the computer on which t
 
 4.  Restart the AGPM Service. For more information, see [Start and Stop the AGPM Service](start-and-stop-the-agpm-service-agpm40.md).
 
-**Note**  
+**Note**  
+If an AGPM Administrator backs up the archive infrequently, the Group Policy Objects (GPOs) in the archive backup will not be current. To better ensure that the archive backup is current, back up the archive as part of your organization’s daily backup strategy.
+
+ 
+
+### Additional references
+
+-   [Restore the Archive from a Backup](restore-the-archive-from-a-backup-agpm40.md)
+
+-   [Move the AGPM Server and the Archive](move-the-agpm-server-and-the-archive-agpm40.md)
+
+-   [Managing the Archive](managing-the-archive-agpm40.md)
+
+ 
+
+ 
+
+
+
+
+

@@ -32,3 +32,16 @@ In Advanced Group Policy Management (AGPM), as an AGPM Administrator (Full Contr
 ### Additional references
 
 -   For information about delegating access to GPOs in the archive, see [Managing the Archive](managing-the-archive.md).
+
+-   For information about how to restrict the number of versions of each GPO stored in the archive, see [Limit the GPO Versions Stored](limit-the-gpo-versions-stored-agpm30ops.md).
+
+-   [Performing AGPM Administrator Tasks](performing-agpm-administrator-tasks-agpm30ops.md)
+
+ 
+
+ 
+
+
+
+
+

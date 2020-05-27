@@ -41,9 +41,11 @@ A user account with the Approver or AGPM Administrator (Full Control) role or ne
 
 -   [Creating or Controlling a GPO](creating-or-controlling-a-gpo-agpm40-app.md)
 
- 
+ 
 
- 
+ 
+
+
 
 
 

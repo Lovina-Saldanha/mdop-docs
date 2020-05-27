@@ -44,10 +44,19 @@ The following settings are available under User Configuration\\Policies\\Adminis
 </tbody>
 </table>
 
- 
+ 
 
 ### Additional references
 
 -   [Administrative Templates Folder](administrative-templates-folder-agpm30ops.md)
 
 -   [Performing AGPM Administrator Tasks](performing-agpm-administrator-tasks-agpm30ops.md)
+
+ 
+
+ 
+
+
+
+
+

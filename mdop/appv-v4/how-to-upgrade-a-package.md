@@ -25,7 +25,7 @@ When you upgrade a package with a new version, you can leave the existing versio
 
 1.  Copy the new SFT file to the Application Virtualization Server's content folder.
 
-    **Note**  
+    **Note**  
     If resequencing did not add features that changed the Open Software Descriptor (OSD), icon (ICO), or Sequencer Project (SPRJ) files, you do not need to copy those. You can include these files if you want all these files to display the same date.
 
      

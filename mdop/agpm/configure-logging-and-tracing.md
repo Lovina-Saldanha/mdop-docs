@@ -32,3 +32,36 @@ A user account with the AGPM Administrator (Full Control) role, the user account
     1.  Right-click **Administrative Templates** and click **Add/Remove Templates**.
 
     2.  Click **Add**, select **agpm.admx** or **agpm.adm**, click **Open**, and then click **Close**.
+
+4.  Under **Windows Components**, double-click **AGPM**.
+
+5.  In the details pane, double-click **AGPM Logging**.
+
+6.  In the **AGPM Logging Properties** window, click **Enabled**, and configure the level of detail to record in the logs.
+
+7.  Click **OK**.
+
+8.  Close the **Group Policy Object Editor**. (For more information, see [Deploy a GPO](deploy-a-gpo.md).) After Group Policy is updated, you must restart the AGPM Service to begin logging on the AGPM Server. Group Policy administrators must close and restart the GPMC to begin logging on their computers.
+
+    **Trace file locations**:
+
+    -   Client: %LocalAppData%\\Microsoft\\AGPM\\agpm.log
+
+    -   Server: %ProgramData%\\Microsoft\\AGPM\\agpmserv.log
+
+### Additional considerations
+
+-   You must be able to edit and deploy a GPO to configure AGPM logging and tracing. See [Editing a GPO](editing-a-gpo.md) and [Deploy a GPO](deploy-a-gpo.md) for additional detail.
+
+### Additional references
+
+-   [Performing AGPM Administrator Tasks](performing-agpm-administrator-tasks.md)
+
+ 
+
+ 
+
+
+
+
+

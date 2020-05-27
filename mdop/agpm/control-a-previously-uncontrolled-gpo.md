@@ -32,3 +32,20 @@ A user account with the Approver or AGPM Administrator (Full Control) role or ne
 4.  Type a comment to be displayed in the history of the GPO, and then click **OK**.
 
 5.  When the **Progress** window indicates that overall progress is complete, click **Close**. The GPO is removed from the list on the **Uncontrolled** tab and added to the **Controlled** tab.
+
+### Additional considerations
+
+-   By default, you must be an Approver or an AGPM Administrator (Full Control) to perform this procedure. Specifically, you must have **List Contents** and **Create GPO** permissions for the domain.
+
+### Additional references
+
+-   [Creating, Controlling, or Importing a GPO](creating-controlling-or-importing-a-gpo-approver.md)
+
+ 
+
+ 
+
+
+
+
+

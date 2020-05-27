@@ -32,3 +32,32 @@ The following secondary tabs filter the list of GPOs displayed:
 -   **Recycle Bin**: Deleted GPOs
 
 The **Contents** tab and its secondary tabs provide details about each GPO and access to the history of each GPO:
+
+-   [Contents Tab Features](contents-tab-features-agpm40.md)
+
+-   [History Window](history-window-agpm40.md)
+
+When you right-click GPOs on any secondary tab, a shortcut menu unique to that tab is displayed, providing commands for managing the GPOs:
+
+-   [Controlled GPO Commands](controlled-gpo-commands-agpm40.md)
+
+-   [Uncontrolled GPO Commands](uncontrolled-gpo-commands-agpm40.md)
+
+-   [Pending GPO Commands](pending-gpo-commands-agpm40.md)
+
+-   [Template Commands](template-commands-agpm40.md)
+
+-   [Recycle Bin Commands](recycle-bin-commands-agpm40.md)
+
+### Additional references
+
+-   [User Interface: Advanced Group Policy Management](user-interface-advanced-group-policy-management-agpm40.md)
+
+ 
+
+ 
+
+
+
+
+

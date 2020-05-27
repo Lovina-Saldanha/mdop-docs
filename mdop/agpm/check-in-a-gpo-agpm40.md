@@ -32,3 +32,24 @@ A user account with the Editor, Approver, or AGPM Administrator (Full Control) r
     -   To retain changes made by the Editor, right-click the GPO and then click **Check In**.
 
 3.  Type a comment to be displayed in the audit trail of the GPO, and then click **OK**.
+
+4.  When the **Progress** window indicates that overall progress is complete, click **Close**. On the **Controlled** tab, the state of the GPO is identified as **Checked In**.
+
+### Additional considerations
+
+-   By default, you must be an Editor, an Approver, or an AGPM Administrator (Full Control) to perform this procedure. Specifically, you must have **List Contents** and either **Edit Settings** or **Deploy GPO** permissions for the GPO. If you are not an Approver or AGPM Administrator (or other Group Policy administrator with **Deploy GPO** permission), you must be the Editor who has checked out the GPO.
+
+### Additional references
+
+-   [Performing Approver Tasks](performing-approver-tasks-agpm40.md)
+
+-   [Edit a GPO Offline](edit-a-gpo-offline-agpm40.md)
+
+ 
+
+ 
+
+
+
+
+
