@@ -1,0 +1,56 @@
+{:allowed-branchname-matches ["master"]
+ :allowed-filename-matches ["maxtraining/"]
+ :guidance-profile "d2b6c2c8-00ee-47f1-8d10-b280cc3434c1" ;; Profile ID for "M365-specific"
+ :targets ;; Sets minimum scores, maximum allowed issues,  minimum category scores, and maximum allowed issues per category 
+ {
+  :counts
+  {
+   ;;:spelling 10
+   ;;:grammar 3
+   ;;:total 15 ;; absolute flag count (what does this include? How is this different from issues?)
+   ;;:issues 15 ;; coming from the platform, will need to be tested.
+  }
+  :scores
+  {
+  ;;:terminology 100
+  :min-score 95 ;; testing min score
+  ;;:spelling 40
+  }
+ }
+
+ ;;:acrolinx-check-settings
+ {
+  "languageId" "en"
+  "ruleSetName" "Standard"
+  "requestedFlagTypes" ["SPELLING" "GRAMMAR" "STYLE"
+                        "TERMINOLOGY_DEPRECATED"
+                        "TERMINOLOGY_VALID"
+                        "VOICE_GUIDANCE"
+                        ]
+  "termSetNames" ["M365"]
+ }
+ 
+ :template-header
+
+ "
+## Acrolinx Scorecards
+ 
+**A minimum Acrolinx score of 95 is required for this test.**
+ 
+Click the scorecard links for each article to review the Acrolinx feedback on grammar, spelling, punctuation, writing style, and terminology:
+
+| Article | Score | Issues | Scorecard | Processed |
+| ------- | ----- | ------ | --------- | --------- |
+"
+
+ :template-change
+ "| ${s/file} | ${acrolinx/qualityscore} | ${acrolinx/scores/min-score} | ${acrolinx/flags/issues} | [link](${acrolinx/scorecard}) | ${s/status} |
+"
+ 
+ :template-footer
+ "
+**More info about Acrolinx**
+ 
+This is a test. Contact krowley for more information.
+"
+}
