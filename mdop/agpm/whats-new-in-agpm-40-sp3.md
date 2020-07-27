@@ -134,6 +134,11 @@ AGPM 4.0 SP3 supports the configurations in the following table. Although AGPM 
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left"><p>Windows Server 2019 or Windows 10</p></td>
+<td align="left"><p>Windows 10</p></td>
+<td align="left"><p>Supported</p></td>
+</tr>
+<tr class="odd">
 <td align="left"><p>Windows Server 2016 or Windows 10</p></td>
 <td align="left"><p>Windows 10</p></td>
 <td align="left"><p>Supported</p></td>
